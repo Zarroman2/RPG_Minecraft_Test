@@ -1,0 +1,17 @@
+{
+	id: "4f5a481d-1d05-43af-bab4-f6663a358926"
+	type: "player"
+	player_name: "susybakataker"
+	ranks: {
+		4f5a481d-1d05-43af-bab4-f6663a358926: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "susybakataker"
+		"ftbteams:description": ""
+		"ftbteams:color": "#80FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

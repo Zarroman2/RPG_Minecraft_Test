@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:melee_minecraft",
+    "enigmaticlegacy:the_infinitum"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

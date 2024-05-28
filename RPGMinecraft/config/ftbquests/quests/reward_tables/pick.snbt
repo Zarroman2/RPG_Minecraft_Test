@@ -1,0 +1,50 @@
+{
+	id: "4F5EE603E199E5C7"
+	order_index: 0
+	title: "Pick"
+	loot_size: 1
+	rewards: [
+		{
+			title: "Rusted Knight Kit"
+			icon: {
+				id: "magistuarmory:rusted_bastardsword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			command: "/csg_kits give RustedKnight @s"
+			type: "command"
+		}
+		{
+			title: "Mage Kit"
+			icon: "ars_nouveau:novice_spell_book"
+			command: "/csg_kits give Mage @s"
+			type: "command"
+		}
+		{
+			title: "Barbarian Kit"
+			icon: {
+				id: "wom:iron_greataxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			command: " /csg_kits give Barbarian @s"
+			type: "command"
+		}
+		{
+			title: "Rouge Kit"
+			icon: {
+				id: "spartanweaponry:stone_dagger"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			command: "/csg_kits give Rouge @s"
+			type: "command"
+		}
+	]
+}

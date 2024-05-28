@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:twilightforest_block_and_chain"
+  ],
+  "incompatible": [
+    "twilightforest:block_strength",
+    "twilightforest:preservation",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

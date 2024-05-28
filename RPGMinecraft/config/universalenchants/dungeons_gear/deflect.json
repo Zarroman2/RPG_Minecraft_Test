@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "minecraft:protection",
+    "minecraft:blast_protection",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "minecraft:projectile_protection",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:fire_protection",
+    "minecraft:feather_falling"
+  ]
+}

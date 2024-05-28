@@ -1,0 +1,112 @@
+{
+	id: "02C0044D5A19F994"
+	order_index: 2
+	title: "Advanced"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:diamond", count: 7, weight: 11 }
+		{ item: "sophisticatedbackpacks:diamond_backpack", weight: 6 }
+		{ item: "minecraft:netherite_ingot", count: 2, weight: 3 }
+		{ item: "minecraft:totem_of_undying", weight: 7 }
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 4s
+						id: "minecraft:protection"
+					}]
+				}
+			}
+			weight: 4
+		}
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 2s
+						id: "minecraft:respiration"
+					}]
+				}
+			}
+			weight: 4
+		}
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 3s
+						id: "minecraft:looting"
+					}]
+				}
+			}
+			weight: 4
+		}
+		{
+			item: {
+				id: "epicfight:diamond_greatsword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 15
+		}
+		{
+			item: {
+				id: "spartanweaponry:diamond_battleaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 15
+		}
+		{
+			item: {
+				id: "epicfight:iron_tachi"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 10
+		}
+		{
+			item: {
+				id: "spartanweaponry:iron_rapier"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 10
+		}
+		{ item: "upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot" }
+		{ item: "lolenderite:enderite_ingot", weight: 10 }
+		{ item: "minecraft:iron_ingot", count: 6, weight: 9 }
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 3s
+						id: "ars_nouveau:mana_boost"
+					}]
+				}
+			}
+			weight: 5
+		}
+		{
+			xp: 4000
+			type: "xp"
+			weight: 5
+		}
+	]
+}

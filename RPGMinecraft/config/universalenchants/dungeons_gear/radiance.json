@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_melee",
+    "enigmaticlegacy:the_infinitum",
+    "dungeons_mobs:mountaineer_axe",
+    "dungeons_mobs:gold_mountaineer_axe",
+    "dungeons_mobs:diamond_mountaineer_axe"
+  ],
+  "incompatible": [
+    "dungeons_gear:leeching",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:anima_conduit"
+  ]
+}

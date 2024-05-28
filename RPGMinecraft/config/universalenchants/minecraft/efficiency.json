@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "quark:pickarang",
+    "quark:flamerang"
+  ],
+  "incompatible": [
+    "minecraft:piercing",
+    "majruszsenchantments:fatigue_curse",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

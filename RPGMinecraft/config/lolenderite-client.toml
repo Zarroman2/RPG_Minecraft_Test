@@ -1,0 +1,9 @@
+
+["Config for Enderite"]
+
+	["Config for Enderite"."Enderite Plated Elytra"]
+		#Allow the cape elytra texture to effect Enderite Plated Elytra - default | true
+		"Allow Cape Texture" = true
+		#Use the recoloured vanilla texture version of Enderite Plated Elytra - default | false
+		"Recoloured Elytra" = false
+

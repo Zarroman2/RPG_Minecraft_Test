@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "enchantments_plus:enhancement",
+    "minecraft:silk_touch",
+    "minecraft:fortune",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+	id: "58B7C2A07060B4BB"
+	group: "66A11B488C660181"
+	order_index: 4
+	filename: "nether_bosses"
+	title: "Nether Bosses"
+	icon: "minecraft:netherite_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.5d
+		y: -2.0d
+		width: 5.0d
+		height: 3.0d
+		rotation: 0.0d
+		image: "rpgminecraft:textures/netherbossestitle.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "Kill Ingis"
+			x: 1.5d
+			y: 0.5d
+			shape: "diamond"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "41E3107A9195002C"
+			tasks: [{
+				id: "7E4C2823D37ECA6F"
+				type: "advancement"
+				advancement: "cataclysm:kill_ignis"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "3D9FEEAFAD24B457"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+		{
+			title: "Kill The Netherite Monstosity"
+			x: 0.0d
+			y: 0.5d
+			shape: "diamond"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "3657EC4DC87CD190"
+			tasks: [{
+				id: "0ABBE0D10D86584C"
+				type: "advancement"
+				advancement: "cataclysm:kill_monstrosity"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "61108E5493AF507B"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+		{
+			title: "Kill The Nether Gauntlet"
+			x: -1.5d
+			y: 0.5d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "76EC4751F327E67D"
+			tasks: [{
+				id: "7817450DA8DFC9B1"
+				type: "advancement"
+				advancement: "bosses_of_mass_destruction:nether/gauntlet_defeat"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "166F2325AD55A875"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+		{
+			x: -3.0d
+			y: 0.5d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "4C323274A98F5FC6"
+			tasks: [{
+				id: "7BC07973423FB277"
+				type: "advancement"
+				title: "Kill The Wither"
+				advancement: "minecraft:nether/summon_wither"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "24EF24DDB7C8EE9C"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+		{
+			title: "Kill The Awful Ghast"
+			x: 3.0d
+			y: 0.5d
+			shape: "diamond"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "3AD6DE3F143D0E8A"
+			tasks: [{
+				id: "5CFDD0771E9590F3"
+				type: "kill"
+				icon: "stalwart_dungeons:awful_dungeon_spawner"
+				entity: "stalwart_dungeons:awful_ghast"
+				value: 1L
+			}]
+			rewards: [{
+				id: "7B7E2C9CFBB99844"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+		{
+			title: "Kill The Nether Keeper"
+			x: 4.5d
+			y: 0.5d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "4F7556080D3CC9D5"
+			tasks: [{
+				id: "6B4AA20A3CC08CBC"
+				type: "kill"
+				icon: "stalwart_dungeons:keeping_castle_spawner"
+				entity: "stalwart_dungeons:nether_keeper"
+				value: 1L
+			}]
+			rewards: [{
+				id: "19097F8C0985D0F8"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+	]
+	quest_links: [ ]
+}

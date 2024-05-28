@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_head"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "dungeons_gear:recycler",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:prospector",
+    "dungeons_gear:refreshment",
+    "dungeons_gear:lucky_explorer",
+    "dungeons_gear:surprise_gift"
+  ]
+}

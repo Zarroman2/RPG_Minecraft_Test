@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:speed_synergy"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_melee_ranged",
+    "enigmaticlegacy:the_infinitum",
+    "dungeons_mobs:mountaineer_axe",
+    "dungeons_mobs:gold_mountaineer_axe",
+    "dungeons_mobs:diamond_mountaineer_axe"
+  ],
+  "incompatible": [
+    "dungeons_gear:food_reserves",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "dungeons_gear:recycler",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:prospector",
+    "dungeons_gear:lucky_explorer",
+    "dungeons_gear:surprise_gift"
+  ]
+}

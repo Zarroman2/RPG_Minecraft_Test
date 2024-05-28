@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "minecraft:channeling",
+    "enchantments_plus:wave",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy",
+    "minecraft:loyalty"
+  ]
+}

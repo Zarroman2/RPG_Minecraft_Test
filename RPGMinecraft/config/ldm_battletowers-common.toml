@@ -1,0 +1,23 @@
+
+["Configurate LDM's Battle Towers"]
+	#Allow cobblestone battle towers to generate
+	"Cobblestone Battle Tower Generation" = true
+	#Allow deepslate battle towers to generate
+	"Deepslate Battle Tower Generation" = true
+	#Allow netherrack battle towers to generate
+	"Netherrack Battle Tower Generation" = true
+	#Allow stone battle towers to generate
+	"Stone Battle Tower Generation" = true
+	#Allow stone brick battle towers to generate
+	"Stone Brick Battle Tower Generation" = true
+	#How many cobblestone battle towers generate per million
+	"Cobblestone Battle Towers per Million" = 200
+	#Allow deepslate battle towers to generate
+	"Deepslate Battle Towers per Million" = 200
+	#Allow netherrack battle towers to generate
+	"Netherrack Battle Towers per Million" = 200
+	#Allow stone battle towers to generate
+	"Stone Battle Towers per Million" = 200
+	#Allow stone brick battle towers to generate
+	"Stone Brick Battle Towers per Million" = 200
+

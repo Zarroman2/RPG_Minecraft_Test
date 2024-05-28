@@ -1,0 +1,142 @@
+{
+	id: "772C04DB78AE6104"
+	group: "66A11B488C660181"
+	order_index: 5
+	filename: "end_bosses"
+	title: "End Bosses"
+	icon: {
+		id: "lolenderite:enderite_plated_elytra"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 2.0d
+		y: -1.5d
+		width: 5.0d
+		height: 3.0d
+		rotation: 0.0d
+		image: "rpgminecraft:textures/endbossestitle.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "Kill The Ender Golem"
+			x: 0.5d
+			y: 0.5d
+			shape: "diamond"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "7049A108CE0F4A03"
+			tasks: [{
+				id: "2B36606ED25063E4"
+				type: "advancement"
+				advancement: "cataclysm:kill_ender_golem"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "63D74029510B7AC9"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+		{
+			title: "Kill The Obsidilith"
+			x: 2.0d
+			y: 0.5d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "1BB316A01C818E6D"
+			tasks: [{
+				id: "42CA86FD675BAA8B"
+				type: "advancement"
+				advancement: "bosses_of_mass_destruction:end/obsidilith_defeat"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "1506179B1672791F"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+		{
+			title: "Kill The Dragon"
+			x: -1.0d
+			y: 0.5d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "5390F72ACED34D35"
+			tasks: [{
+				id: "0F24E1DD92B389A5"
+				type: "advancement"
+				title: "Kill The Dragon"
+				advancement: "minecraft:end/kill_dragon"
+				criterion: ""
+			}]
+			rewards: [{
+				id: "2256E7F9342660DB"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+		{
+			title: "Kill The Void Worm"
+			icon: "alexsmobs:void_worm_eye"
+			x: 3.5d
+			y: 0.5d
+			shape: "hexagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "7F7CC89AE9ED7661"
+			tasks: [{
+				id: "497263971F01DDE5"
+				type: "kill"
+				icon: {
+					id: "alexsmobs:mysterious_worm"
+					Count: 1b
+					ForgeCaps: {
+						"dungeons_libraries:built_in_enchantments": {
+							BuiltInEnchantments: [ ]
+						}
+					}
+				}
+				entity: "alexsmobs:void_worm_part"
+				value: 1L
+			}]
+		}
+		{
+			title: "Kill The Shelterer"
+			x: 5.0d
+			y: 0.5d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "1F95556B09873D5A"
+			tasks: [{
+				id: "3DBFC9AA067481EB"
+				type: "kill"
+				icon: "stalwart_dungeons:end_dungeon_spawner"
+				entity: "stalwart_dungeons:shelterer"
+				value: 1L
+			}]
+			rewards: [{
+				id: "29C5499D9AC8D5B9"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 198163113874946452L
+			}]
+		}
+	]
+	quest_links: [ ]
+}

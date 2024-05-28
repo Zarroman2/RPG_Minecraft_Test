@@ -1,0 +1,47 @@
+
+["Illagers+ Legacy Config Values"]
+	#Archer Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	archer_wave_counts = [1, 0, 0, 0, 1, 2, 2, 3]
+	#Berserker Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	berserker_wave_counts = [0, 0, 0, 0, 0, 1, 1, 1]
+	#Black Iron Golem Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	black_iron_golem_wave_counts = [0, 0, 1, 0, 0, 1, 0, 1]
+	#Enchanter Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	enchanter_wave_counts = [0, 1, 0, 1, 0, 1, 0, 1]
+	#Furantur Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	furantur_wave_counts = [1, 0, 1, 1, 0, 2, 1, 2]
+	#Hoarder Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	hoarder_wave_counts = [1, 1, 1, 1, 1, 1, 1, 1]
+	#Illager King Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	illager_king_wave_counts = [0, 0, 0, 1, 0, 0, 0, 1]
+	#Necromancer Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	necromancer_wave_counts = [0, 0, 1, 0, 1, 1, 1, 1]
+	#Miner Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	miner_wave_counts = [0, 0, 0, 0, 0, 0, 0, 0]
+	#Frostmancer Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	frostmancer_wave_counts = [0, 0, 0, 0, 0, 0, 0, 0]
+	#Illager General Raid Wave Counts
+	#Requires an Integer array of no more and no less than 8 integers, each corresponding to its respective wave.
+	#Requires a world restart to properly update values.
+	illager_general_wave_counts = [1, 0, 0, 1, 0, 0, 1, 1]
+

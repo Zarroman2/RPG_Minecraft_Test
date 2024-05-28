@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable",
+    "enigmaticlegacy:the_infinitum"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

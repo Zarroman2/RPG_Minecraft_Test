@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:ss_shield"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_legs"
+  ],
+  "incompatible": [
+    "dungeons_gear:acrobat",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:void_dodge",
+    "dungeons_gear:velocity",
+    "dungeons_gear:swiftfooted",
+    "dungeons_gear:tumblebee",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:electrified",
+    "dungeons_gear:fire_trail",
+    "dungeons_gear:arrow_hoarder",
+    "dungeons_gear:dodge"
+  ]
+}

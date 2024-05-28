@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "enigmaticlegacy:eternal_binding_curse",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

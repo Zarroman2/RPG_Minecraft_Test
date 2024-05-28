@@ -1,0 +1,120 @@
+{
+	id: "464A707AB44312B3"
+	order_index: 1
+	title: "Basic"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 4
+		}
+		{
+			item: {
+				id: "stalwart_dungeons:diamond_hammer"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 3
+		}
+		{
+			item: {
+				id: "spartanweaponry:diamond_longsword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{ item: "minecraft:diamond", count: 3, weight: 4 }
+		{
+			item: {
+				id: "minecraft:iron_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 7
+		}
+		{
+			item: {
+				id: "epicfight:iron_dagger"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 10
+		}
+		{ item: "sophisticatedbackpacks:iron_backpack", weight: 5 }
+		{ item: "minecraft:iron_ingot", count: 4, weight: 4 }
+		{ item: "minecraft:netherite_ingot", weight: 2 }
+		{ item: "upgradednetherite_ultimate:ultimate_upgraded_netherite_ingot" }
+		{ item: "minecraft:coal", count: 10, weight: 20 }
+		{ item: "artifacts:eternal_steak", weight: 11 }
+		{ item: "artifacts:lucky_scarf", weight: 12 }
+		{ item: "artifacts:snorkel", weight: 10 }
+		{ item: "ars_nouveau:apprentice_spell_book" }
+		{ item: "create:blaze_burner", weight: 8 }
+		{ item: "sophisticatedbackpacks:magnet_upgrade", weight: 5 }
+		{ item: "sophisticatedbackpacks:pickup_upgrade", weight: 5 }
+		{ item: "artifacts:obsidian_skull" }
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 2s
+						id: "minecraft:protection"
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 1s
+						id: "ars_nouveau:mana_regen"
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 1s
+						id: "minecraft:feather_falling"
+					}]
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:enchanted_book"
+				Count: 1b
+				tag: {
+					StoredEnchantments: [{
+						lvl: 3s
+						id: "minecraft:sharpness"
+					}]
+				}
+			}
+		}
+	]
+}

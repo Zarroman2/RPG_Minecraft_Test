@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_head"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

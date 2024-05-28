@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "armorunder:liner_snips",
+    "armorunder:special_liner_snips",
+    "quark:pickarang",
+    "quark:flamerang"
+  ],
+  "incompatible": [
+    "minecraft:luck_of_the_sea",
+    "spartanweaponry:lucky_throw",
+    "enchantments_plus:auto_smelting",
+    "minecraft:looting",
+    "minecraft:fortune",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy",
+    "majruszsenchantments:smelter"
+  ]
+}

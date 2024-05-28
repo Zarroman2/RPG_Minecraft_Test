@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_melee",
+    "enigmaticlegacy:the_infinitum",
+    "dungeons_mobs:mountaineer_axe",
+    "dungeons_mobs:gold_mountaineer_axe",
+    "dungeons_mobs:diamond_mountaineer_axe"
+  ],
+  "incompatible": [
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:enigma_resonator",
+    "dungeons_gear:shockwave",
+    "dungeons_gear:dynamo",
+    "dungeons_gear:guarding_strike",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:committed",
+    "dungeons_gear:thundering",
+    "dungeons_gear:exploding",
+    "dungeons_gear:swirling",
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "minecraft:bane_of_arthropods",
+    "dungeons_gear:critical_hit"
+  ]
+}

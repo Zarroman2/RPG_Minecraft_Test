@@ -1,0 +1,45 @@
+{
+	id: "3ADBCD9E02741074"
+	group: "66A11B488C660181"
+	order_index: 0
+	filename: "bosses_info"
+	title: "Bosses Info"
+	icon: "minecraft:writable_book"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: -1.0d
+		width: 4.0d
+		height: 1.0d
+		rotation: 0.0d
+		image: "rpgminecraft:textures/bossestitle.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		subtitle: "Here Is The Leveling Of Bosses"
+		description: [
+			"Every Bosses Has A Shape Based On There Difficulty"
+			""
+			"1.Pentagon = Easy Difficulty"
+			"2.Diamond = Medium Difficulty"
+			"3.Hexagon = Hard Difficulty"
+			""
+			"When You Defeat One Of Them You Get 1 - 2 Random Rewards Based On The Difficulty"
+		]
+		dependencies: ["3428C55331BDF7A1"]
+		hide: true
+		id: "27993853B3D70DC2"
+		tasks: [{
+			id: "7023392E476655FF"
+			type: "checkmark"
+			title: "Welcome To The Bosses Page"
+		}]
+	}]
+	quest_links: [ ]
+}

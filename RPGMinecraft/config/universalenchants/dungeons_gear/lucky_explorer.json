@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_feet",
+    "alexsmobs:pigshoes"
+  ],
+  "incompatible": [
+    "dungeons_gear:death_barter",
+    "dungeons_gear:food_reserves",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "dungeons_gear:recycler",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:prospector",
+    "dungeons_gear:refreshment",
+    "dungeons_gear:surprise_gift"
+  ]
+}

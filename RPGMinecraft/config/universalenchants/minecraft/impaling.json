@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident",
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "enchantments_plus:anti_water_bane",
+    "enigmaticlegacy:torrent",
+    "enigmaticlegacy:wrath",
+    "minecraft:smite",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

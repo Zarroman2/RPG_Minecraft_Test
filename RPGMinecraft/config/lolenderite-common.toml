@@ -1,0 +1,7 @@
+
+["Config for Enderite"]
+
+	["Config for Enderite"."Enderite Misc"]
+		#Allow Enderite items to generate in End City Chests - default | true
+		"Enderite in End City Loot" = true
+

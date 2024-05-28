@@ -1,0 +1,20 @@
+{
+	version: 1
+	uuid: "4f5a481d1d0543afbab4f6663a358926"
+	name: "susybakataker"
+	can_edit: true
+	lock: false
+	auto_pin: false
+	chapter_pinned: true
+	rewards_blocked: false
+	task_progress: { }
+	started: {
+		04F16DC13BD2D63F: 1716758310502L
+		46A2EAF676DE0E15: 1716760066507L
+	}
+	completed: {
+		46A2EAF676DE0E15: 1716766695388L
+	}
+	claimed_rewards: { }
+	pinned_quests: [ ]
+}

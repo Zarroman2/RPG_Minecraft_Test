@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator",
+    "cataclysm:infernal_forge",
+    "enigmaticlegacy:the_infinitum",
+    "savage_and_ravage:cleaver_of_beheading"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:heaven_call",
+    "extra_shield_enchantments:flare",
+    "extra_shield_enchantments:impulse",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy",
+    "extra_shield_enchantments:detonation"
+  ]
+}

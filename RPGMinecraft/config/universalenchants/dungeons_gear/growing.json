@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_ranged"
+  ],
+  "incompatible": [
+    "minecraft:power",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "quark:pickarang",
+    "quark:flamerang"
+  ],
+  "incompatible": [
+    "enchantments_plus:enhancement",
+    "minecraft:silk_touch",
+    "enchantments_plus:auto_smelting",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

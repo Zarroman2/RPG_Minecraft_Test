@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mowziesmobs:spear",
+    "enigmaticlegacy:the_infinitum",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "enchantments_plus:lightness",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

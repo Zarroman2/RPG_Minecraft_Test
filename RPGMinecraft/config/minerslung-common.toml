@@ -1,0 +1,34 @@
+#Air qualities at different heights in different dimensions.
+#The syntax is the dimension's resource location, the "default" air level in that dimension,
+#then any number of height:airlevel pairs separated by commas.
+#The air will have that quality starting at that height and above (until the next entry).
+#The entries must be in ascending order of height.
+#If a dimension doesn't have an entry here, it'll be assumed to be green everywhere.
+dimensions = ["minecraft:overworld=yellow,0:green,128:yellow", "minecraft:the_nether=yellow", "minecraft:the_end=red"]
+#Entities that can always breathe.
+#This is in addition to entities where `.canBreatheUnderwater()` returns true (so, fish and undead),
+#and invulnerable players.
+alwaysBreathingEntities = ["minecraft:armor_stand", "minecraft:enderman", "minecraft:endermite", "minecraft:shulker", "minecraft:strider", "minecraft:ghast", "minecraft:ender_dragon", "minecraft:wither", "minecraft:zombie", "minecraft:skeleton", "minecraft:spider", "minecraft:cave_spider", "minecraft:slime", "cataclysm:ender_golem", "cataclysm:netherite_monstosity", "cataclysm:nameless_sorcerer", "cataclysm:ender_guardian", "cataclysm:endermaptera", "cataclysm:ignis", "cataclysm:ignited_revenant", "twilightforest:adherent", "twilightforest:alpha_yeti", "twilightforest:bighorn_sheep", "twilightforest:blockchain_goblin", "twilightforest:boar", "twilightforest:carminite_brooding", "twilightforest:carminite_ghastguard", "twilightforest:carminite_ghastling", "twilightforest:carminite_golem", "twilightforest:death_tome", "twilightforest:deer", "twilightforest:dwarf_rabbit", "twilightforest:fire_beetle", "twilightforest:giant_miner", "twilightforest:harbinger_cube", "twilightforest:hedge_spider", "twilightforest:helmet_crab", "twilightforest:hostile_wolf", "twilightforest:hydra", "twilightforest:ice_crystal", "twilightforest:king_spider", "twilightforest:night_phantom", "twilightforest:kobold", "twilightforest:lower_goblin_knight", "twilightforest:maze_slime", "twilightforest:minoshroom", "twilightforest:minotaur", "twilightforest:mist_wolf", "twilightforest:mosquito_swarm", "twilightforest:naga", "twilightforest:penguin", "twilightforest:pinch_beetle", "twilightforest:quest_ram", "twilightforest:raven", "twilightforest:redcap", "twilightforest:redcap_sapper", "twilightforest:roving_cube", "twilightforest:skeleton_druid", "twilightforest:slime_beetle", "twilightforest:snow_guardian", "twilightforest:snow_queen", "twilightforest:squirrel", "twilightforest:stable_ice_core", "twilightforest:swarm_spider", "twilightforest:tiny_bird", "twilightforest:towerwood_borer", "twilightforest:troll", "twilightforest:unstable_ice_core", "twilightforest:ur_ghast", "twilightforest:winter_wolf", "twilightforest:wraith", "twilightforest:yeti", "stalwart_dungeons:awful_ghast", "stalwart_dungeons:nether_keeper", "stalwart_dungeons:giddy_blaze", "stalwart_dungeons:incomplete_wither", "stalwart_dungeons:reinforced_blaze", "stalwart_dungeons:propulk", "stalwart_dungeons:shelterer", "unusualend:endstone_trapper", "unusualend:undead_enderling", "unusualend:ender_blob", "unusualend:ender_firefly", "unusualend:endstone_golem", "unusualend:dragling", "unusualend:bolok", "mowziesmobs:foliaath", "mowziesmobs:wroughtnaut", "mowziesmobs:umvuthana", "mowziesmobs:umvuthana_raptor", "mowziesmobs:umvuthi", "mowziesmobs:frostmaw", "mowziesmobs:grottol", "mowziesmobs:lantern", "mowziesmobs:naga", "aquamirae:maw", "aquamirae:anglerfish", "aquamirae:maze_mother", "aquamirae:captain_cornelia", "aquamirae:pillagers_patrol", "aquamirae:totured_soul", "aquamirae:eel", "aquamirae:spinefish", "minecraft:creeper", "minecraft:evoker", "alexsmobs:void_worm"]
+#Whether to allow right-clicking torches to make them spray particle effects
+enableSignalTorches = true
+#How much air a Drowned attack removes
+#Range: > -2147483648
+drownedChoking = 100
+
+[Ranges]
+	#The radius a soul torch projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulTorchRange = 2.0
+	#The radius a soul fire projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulFireRange = 5.0
+	#The radius a soul campfire projects a bubble of blue air around it
+	#Range: 0.0 ~ 32.0
+	soulCampfireRange = 9.0
+	#The radius lava blocks project a bubble of red air around it
+	#Range: 0.0 ~ 32.0
+	lavaRange = 5.0
+	#The radius nether portal blocks project a bubble of green air around it
+	#Range: 0.0 ~ 32.0
+	netherPortalRange = 5.0
+

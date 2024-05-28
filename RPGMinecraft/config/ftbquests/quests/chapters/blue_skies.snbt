@@ -1,0 +1,195 @@
+{
+	id: "2F7580DD9461D0FE"
+	group: "66A11B488C660181"
+	order_index: 2
+	filename: "blue_skies"
+	title: "Blue Skies"
+	icon: "blue_skies:blue_journal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 1.0d
+			y: -2.0d
+			width: 4.0d
+			height: 2.0d
+			rotation: 0.0d
+			image: "rpgminecraft:textures/bossesdowntitle.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 1.0d
+			y: -2.5d
+			width: 4.0d
+			height: 1.0d
+			rotation: 0.0d
+			image: "rpgminecraft:textures/blueskies.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			title: "Kill The Summoner"
+			icon: {
+				id: "blue_skies:summoner_trophy"
+				Count: 1b
+				tag: {
+					BlockStateTag: {
+						tier: "bronze"
+					}
+				}
+			}
+			x: 0.0d
+			y: 0.0d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "6D09EE126A1D85F6"
+			tasks: [{
+				id: "197BE1644406F6DD"
+				type: "kill"
+				icon: {
+					id: "blue_skies:summoner_trophy"
+					Count: 1b
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				entity: "blue_skies:summoner"
+				value: 1L
+			}]
+			rewards: [{
+				id: "1FA6C6EB6D5FB421"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+		{
+			title: "Kill The Alchemist"
+			icon: {
+				id: "blue_skies:alchemist_trophy"
+				Count: 1b
+				tag: {
+					BlockStateTag: {
+						tier: "bronze"
+					}
+				}
+			}
+			x: 1.5d
+			y: 0.0d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "5647E0496DC9D912"
+			tasks: [{
+				id: "0EF26980124EE83F"
+				type: "kill"
+				icon: {
+					id: "blue_skies:alchemist_trophy"
+					Count: 1b
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				entity: "blue_skies:alchemist"
+				value: 1L
+			}]
+			rewards: [{
+				id: "63FB14B0B2F87CF6"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+		{
+			title: "Kill The Starlit Crusher"
+			icon: {
+				id: "blue_skies:starlit_crusher_trophy"
+				Count: 1b
+				tag: {
+					BlockStateTag: {
+						tier: "bronze"
+					}
+				}
+			}
+			x: -1.5d
+			y: 0.0d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "3BA008E16BF29FE6"
+			tasks: [{
+				id: "446C779A5BED4425"
+				type: "kill"
+				icon: {
+					id: "blue_skies:starlit_crusher_trophy"
+					Count: 1b
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				entity: "blue_skies:starlit_crusher"
+				value: 1L
+			}]
+			rewards: [{
+				id: "0E16B24000B500F3"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+		{
+			title: "Kill The Arachnarch"
+			icon: {
+				id: "blue_skies:arachnarch_trophy"
+				Count: 1b
+				tag: {
+					BlockStateTag: {
+						tier: "bronze"
+					}
+				}
+			}
+			x: 3.0d
+			y: 0.0d
+			shape: "pentagon"
+			dependencies: ["3ADBCD9E02741074"]
+			hide: true
+			id: "2D906C9D6B0CF4CE"
+			tasks: [{
+				id: "040C231B0B90F952"
+				type: "kill"
+				icon: {
+					id: "blue_skies:arachnarch_trophy"
+					Count: 1b
+					tag: {
+						BlockStateTag: {
+							tier: "bronze"
+						}
+					}
+				}
+				entity: "blue_skies:arachnarch"
+				value: 1L
+			}]
+			rewards: [{
+				id: "363AAA063E27186A"
+				type: "random"
+				exclude_from_claim_all: true
+				table_id: 5064984403244159667L
+			}]
+		}
+	]
+	quest_links: [ ]
+}

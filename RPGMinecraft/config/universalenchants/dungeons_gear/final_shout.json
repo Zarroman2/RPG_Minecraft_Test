@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "dungeons_gear:cowardice",
+    "dungeons_gear:frenzied",
+    "dungeons_gear:explorer",
+    "extra_shield_enchantments:lethargy",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}

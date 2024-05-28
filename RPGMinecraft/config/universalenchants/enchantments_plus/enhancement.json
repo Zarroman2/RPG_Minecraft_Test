@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "enchantments_plus:auto_smelting",
+    "minecraft:fortune",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

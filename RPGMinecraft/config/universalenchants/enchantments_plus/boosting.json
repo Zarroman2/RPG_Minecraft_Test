@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "farmersdelight:skillet",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator",
+    "cataclysm:infernal_forge",
+    "enigmaticlegacy:the_infinitum",
+    "savage_and_ravage:cleaver_of_beheading"
+  ],
+  "incompatible": [
+    "enchantments_plus:blood_blade",
+    "minecraft:looting",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

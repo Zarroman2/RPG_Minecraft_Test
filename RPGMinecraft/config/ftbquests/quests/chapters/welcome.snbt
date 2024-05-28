@@ -1,0 +1,138 @@
+{
+	id: "3428C55331BDF7A1"
+	group: ""
+	order_index: 0
+	filename: "welcome"
+	title: "Welcome"
+	icon: "minecraft:stone"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: -1.5d
+		width: 5.0d
+		height: 2.0d
+		rotation: 0.0d
+		image: "rpgminecraft:textures/rpgminecrafttitle.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "The Important Stuff"
+			icon: "minecraft:grass_block"
+			x: 0.0d
+			y: 0.0d
+			subtitle: "Welcome To RPG Minecraft"
+			description: [
+				" In This Pack You Can Explore A Big Advanced World Full Of Bosses Dungeons And Dimensons To Explore"
+				"                                                With These New Bosses Comes A New Fighting System From The Epic Fight Mod Where You Can Learn Skills To Help With Fighting The Way You Switch Between Mining And Fighting Is With The R Button"
+			]
+			id: "63BA4DC271E5ACDF"
+			tasks: [{
+				id: "6288AA68A8DFC7C4"
+				type: "checkmark"
+				title: "CLICK ME!"
+			}]
+		}
+		{
+			title: "Curios"
+			icon: "artifacts:panic_necklace"
+			x: -1.0d
+			y: 1.5d
+			subtitle: "Curios For Storing And Using Cool Artifacts"
+			description: [" Curios Allows You To Have Cool Artifacts Stored On Your Person As You Fight Instead Of Having You Do It Yourself In Battle"]
+			dependencies: ["63BA4DC271E5ACDF"]
+			hide_details_until_startable: false
+			id: "7E38A5B896F5A863"
+			tasks: [{
+				id: "1A7195B74524CA3D"
+				type: "checkmark"
+				title: "CLICK ME!"
+			}]
+			rewards: [{
+				id: "1944FBAA6BD5F8D9"
+				type: "item"
+				item: "artifacts:panic_necklace"
+			}]
+		}
+		{
+			title: "Tools And Armour Leveling"
+			icon: {
+				id: "upgradednetherite_ultimate:ultimate_upgraded_netherite_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 0.0d
+			y: 1.5d
+			subtitle: "The Grind Is Real"
+			description: [" You Can Use Tools And The Longer You Use Them The More Levled Up They Get"]
+			dependencies: ["63BA4DC271E5ACDF"]
+			hide_details_until_startable: false
+			id: "228A9A130DD787DA"
+			tasks: [{
+				id: "5EFDA9CA7A8621E1"
+				type: "checkmark"
+				title: "CLICK ME!"
+			}]
+			rewards: [{
+				id: "416D5516E1F71F24"
+				type: "item"
+				item: "create:experience_nugget"
+				count: 10
+			}]
+		}
+		{
+			title: "Upgrading Your Self"
+			icon: "minecraft:pufferfish"
+			x: 1.0d
+			y: 1.5d
+			subtitle: "I Have More Health"
+			description: [" Pufferfishs Skills Allows You To Upgraed Your Health Attack And Mining"]
+			dependencies: ["63BA4DC271E5ACDF"]
+			hide_details_until_startable: false
+			id: "67500C3B670CBF40"
+			tasks: [{
+				id: "1622D4EE5E5F567B"
+				type: "checkmark"
+				title: "CLICK ME!"
+			}]
+			rewards: [{
+				id: "7C84BA987EBA0DBE"
+				type: "item"
+				item: "minecraft:apple"
+				count: 5
+			}]
+		}
+		{
+			icon: "sophisticatedbackpacks:backpack"
+			x: 0.0d
+			y: 3.0d
+			subtitle: "Lets Get You Suited"
+			description: ["Pick One Of Four Starting Kits Choose Wisely"]
+			dependencies: [
+				"7E38A5B896F5A863"
+				"228A9A130DD787DA"
+				"67500C3B670CBF40"
+			]
+			hide_details_until_startable: false
+			id: "2DCA7DBFF687F7A1"
+			tasks: [{
+				id: "36630C16B2C6498F"
+				type: "checkmark"
+				title: "Starting Out"
+			}]
+			rewards: [{
+				id: "5D6081807775AF53"
+				type: "choice"
+				exclude_from_claim_all: true
+				table_id: 5719261481151358407L
+			}]
+		}
+	]
+	quest_links: [ ]
+}

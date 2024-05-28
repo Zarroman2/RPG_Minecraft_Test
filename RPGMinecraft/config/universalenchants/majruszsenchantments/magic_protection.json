@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "minecraft:blast_protection",
+    "minecraft:projectile_protection",
+    "minecraft:fire_protection",
+    "minecraft:protection",
+    "minecraft:feather_falling",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

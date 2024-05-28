@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "minecraft:bane_of_arthropods",
+    "enigmaticlegacy:torrent",
+    "minecraft:sharpness",
+    "minecraft:smite",
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:impaling",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

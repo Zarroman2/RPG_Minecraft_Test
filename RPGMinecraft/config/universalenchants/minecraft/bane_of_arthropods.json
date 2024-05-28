@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "mowziesmobs:spear",
+    "mowziesmobs:naga_fang_dagger",
+    "blue_skies:spike_shield",
+    "blue_skies:crushing_hammer",
+    "farmersdelight:skillet",
+    "farmersdelight:flint_knife",
+    "farmersdelight:iron_knife",
+    "farmersdelight:diamond_knife",
+    "farmersdelight:netherite_knife",
+    "farmersdelight:golden_knife",
+    "cataclysm:gauntlet_of_guard",
+    "cataclysm:the_incinerator",
+    "cataclysm:infernal_forge",
+    "enigmaticlegacy:the_acknowledgment",
+    "enigmaticlegacy:the_twist",
+    "enigmaticlegacy:the_infinitum",
+    "savage_and_ravage:cleaver_of_beheading",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "enigmaticlegacy:slayer",
+    "majruszsenchantments:misanthropy",
+    "enigmaticlegacy:torrent",
+    "enigmaticlegacy:wrath",
+    "enchantments_plus:oath_of_the_nose",
+    "minecraft:smite",
+    "epicsamurai:demon_slayer",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy",
+    "illagers_plus:illagers_bane",
+    "minecraft:impaling"
+  ]
+}

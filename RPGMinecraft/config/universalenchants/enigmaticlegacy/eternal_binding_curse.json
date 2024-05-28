@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:wearable"
+  ],
+  "incompatible": [
+    "minecraft:binding_curse",
+    "minecraft:vanishing_curse",
+    "majruszsenchantments:incompatibility_curse",
+    "extra_shield_enchantments:lethargy"
+  ]
+}

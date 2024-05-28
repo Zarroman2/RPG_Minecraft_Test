@@ -1,0 +1,1217 @@
+{
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:andesite_cobblestone_from_rocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2024-05-26 19:55:02 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:warped_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diorite_cobblestone_wall": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:clay_tool": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/gold_upgraded_netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-05-27 07:16:21 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_recipe": "2024-05-26 19:55:00 -0700",
+      "has_cobweb": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:iron_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/infernal_shield": {
+    "criteria": {
+      "has_parent_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": false
+  },
+  "comforts:hammock_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2024-05-26 19:55:02 -0700"
+    },
+    "done": false
+  },
+  "notreepunching:gold_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:birch_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:granite_cobblestone_from_rocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:leather_from_boots_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:leather_from_helmet_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:red_sandstone_from_rocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:jungle_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:stonecutting/granite_cobblestone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diorite_cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:sticks_from_logs_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_string": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:granite_cobblestone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:crimson_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:leather_from_leggings_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:birch_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_tall_flowers_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:fire_starter": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_saplings_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:andesite_cobblestone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-05-27 07:31:32 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_wheat_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_red": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:sticks_from_logs_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:oak_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_mattock": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:sticks_from_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:crimson_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:netherite_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_lime_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:sticks_from_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:stonecutting/diorite_cobblestone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:flint_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:clay_brick_from_balls": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": false
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/upgraded_netherite_pearl_smithing": {
+    "criteria": {
+      "has_ender_pearl": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:netherite_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:granite_cobblestone_wall": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:dark_oak_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:acacia_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:oak_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diamond_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-05-26 19:54:59 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:string_from_web_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:cobblestone_from_rocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_leaves_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:flint_hoe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:flint_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/root": {
+    "criteria": {
+      "tick": "2024-05-27 19:33:55 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:melon_slices_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:flint_from_gravel": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:warped_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:sandstone_from_rocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:clay_brick_from_blocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:andesite_cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-05-27 07:16:18 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:netherite_mattock": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:rope_and_nail": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:macuahuitl": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_recipe": "2024-05-26 19:55:00 -0700",
+      "has_cracked_stone_bricks": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:granite_cobblestone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:gold_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:dark_oak_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_magenta_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:spruce_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-05-27 19:33:43 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:string_from_wool_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-26 19:55:02 -0700"
+    },
+    "done": false
+  },
+  "comforts:hammock_blue_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_vines_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_cactus_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_cool_liners": {
+    "criteria": {
+      "has_cool_liner_material": "2024-05-27 07:16:21 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_small_flowers_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:andesite_cobblestone_wall": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:stonecutting/andesite_cobblestone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_green_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_pink": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:acacia_planks_with_saw": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_magenta": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diorite_cobblestone_stairs": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:gold_mattock": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:spruce_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:iron_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:jungle_planks_with_flint_axe": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "comforts:hammock_green": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:iron_mattock": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:diorite_cobblestone_from_rocks": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:flint_shovel": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_by_something": "2024-05-27 07:31:32 -0700"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/armor_warm_liners": {
+    "criteria": {
+      "has_warm_liner_material": "2024-05-27 07:16:21 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:leather_from_chestplate_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "notreepunching:plant_fiber_from_sugarcane_with_knife": {
+    "criteria": {
+      "has_the_recipe": "2024-05-26 19:55:00 -0700"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2024-05-26 19:55:07 -0700"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}

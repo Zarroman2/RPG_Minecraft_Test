@@ -1,0 +1,148 @@
+{
+	id: "1C278EF4A039EF83"
+	order_index: 3
+	title: "Challenging"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:netherite_ingot" }
+		{
+			item: {
+				id: "minecraft:netherite_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_pickaxe"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "minecraft:diamond_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "spartanweaponry:diamond_longbow"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{ item: "minecraft:iron_ingot" }
+		{ item: "artifacts:eternal_steak" }
+		{
+			item: {
+				id: "enigmaticlegacy:mining_charm"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "enigmaticlegacy:ender_ring" }
+		{ item: "artifacts:novelty_drinking_hat" }
+		{ item: "minecraft:iron_ingot" }
+		{ item: "minecraft:diamond" }
+		{ item: "enigmaticlegacy:avarice_scroll" }
+		{ item: "sophisticatedbackpacks:gold_backpack" }
+		{ item: "sophisticatedbackpacks:diamond_backpack" }
+		{ item: "ars_nouveau:archmage_spell_book" }
+		{ item: "ars_nouveau:glyph_underfoot" }
+		{ item: "ars_nouveau:glyph_slowfall" }
+		{ item: "ars_nouveau:glyph_extend_time" }
+		{ item: "ars_nouveau:glyph_summon_wolves" }
+		{ item: "ars_nouveau:glyph_accelerate" }
+		{
+			item: {
+				id: "immersive_armors:bone_helmet"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:bone_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:steampunk_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:robe_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:slime_boots"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:wither_chestplate"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:wooden_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				id: "immersive_armors:warrior_leggings"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+}

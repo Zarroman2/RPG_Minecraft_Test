@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:dungeons_gear_bow"
+  ],
+  "incompatible": [
+    "extra_shield_enchantments:lethargy",
+    "minecraft:quick_charge",
+    "dungeons_gear:velocity",
+    "majruszsenchantments:incompatibility_curse",
+    "dungeons_gear:accelerate"
+  ]
+}
